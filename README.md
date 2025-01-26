@@ -78,7 +78,6 @@ npm start
 ### Creare proiect și conectare MetaMask
 ![image](https://github.com/user-attachments/assets/f80acbb5-65f8-4e0c-adcd-95de7a2b62eb)
 ![image](https://github.com/user-attachments/assets/ca02d183-3dde-4814-bc96-9aef77451bc4)
-![image](https://github.com/user-attachments/assets/c0ee2dc4-d20b-4596-8ddd-3c011502863c)
 ![image](https://github.com/user-attachments/assets/056487b2-e11d-4c3f-98a1-e4b4ad57699c)
 ![image](https://github.com/user-attachments/assets/989c986f-7723-479f-bac1-55a20d12bc18)
 
